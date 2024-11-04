@@ -1,0 +1,76 @@
+C:\Users\nikoh\Source\Repos\crypt-defender\cryptDefender\obj\Debug\net6.0-windows\cryptDefender.FileCryption.resources
+C:\Users\nikoh\Source\Repos\crypt-defender\cryptDefender\obj\Debug\net6.0-windows\cryptDefender.Form1.resources
+C:\Users\nikoh\Source\Repos\crypt-defender\cryptDefender\obj\Debug\net6.0-windows\WinFormsApp3.LoginForm.resources
+C:\Users\nikoh\Source\Repos\crypt-defender\cryptDefender\obj\Debug\net6.0-windows\WinFormsApp3.MainForm.resources
+C:\Users\nikoh\Source\Repos\crypt-defender\cryptDefender\obj\Debug\net6.0-windows\WinFormsApp3.RegisterForm.resources
+C:\Users\nikoh\Source\Repos\crypt-defender\cryptDefender\obj\Debug\net6.0-windows\cryptDefender.csproj.GenerateResource.cache
+C:\Users\nikoh\Source\Repos\crypt-defender\cryptDefender\obj\Debug\net6.0-windows\cryptDefender.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikoh\Source\Repos\crypt-defender\cryptDefender\obj\Debug\net6.0-windows\cryptDefender.AssemblyInfoInputs.cache
+C:\Users\nikoh\Source\Repos\crypt-defender\cryptDefender\obj\Debug\net6.0-windows\cryptDefender.AssemblyInfo.cs
+C:\Users\nikoh\Source\Repos\crypt-defender\cryptDefender\obj\Debug\net6.0-windows\cryptDefender.csproj.CoreCompileInputs.cache
+C:\Users\nikoh\Source\Repos\crypt-defender\cryptDefender\bin\Debug\net6.0-windows\cryptDefender.exe
+C:\Users\nikoh\Source\Repos\crypt-defender\cryptDefender\bin\Debug\net6.0-windows\cryptDefender.deps.json
+C:\Users\nikoh\Source\Repos\crypt-defender\cryptDefender\bin\Debug\net6.0-windows\cryptDefender.runtimeconfig.json
+C:\Users\nikoh\Source\Repos\crypt-defender\cryptDefender\bin\Debug\net6.0-windows\cryptDefender.dll
+C:\Users\nikoh\Source\Repos\crypt-defender\cryptDefender\bin\Debug\net6.0-windows\cryptDefender.pdb
+C:\Users\nikoh\Source\Repos\crypt-defender\cryptDefender\bin\Debug\net6.0-windows\EntityFramework.SqlServer.dll
+C:\Users\nikoh\Source\Repos\crypt-defender\cryptDefender\bin\Debug\net6.0-windows\EntityFramework.dll
+C:\Users\nikoh\Source\Repos\crypt-defender\cryptDefender\bin\Debug\net6.0-windows\System.Data.SQLite.dll
+C:\Users\nikoh\Source\Repos\crypt-defender\cryptDefender\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\nikoh\Source\Repos\crypt-defender\cryptDefender\bin\Debug\net6.0-windows\System.Data.SQLite.EF6.dll
+C:\Users\nikoh\Source\Repos\crypt-defender\cryptDefender\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\nikoh\Source\Repos\crypt-defender\cryptDefender\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\nikoh\Source\Repos\crypt-defender\cryptDefender\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\nikoh\Source\Repos\crypt-defender\cryptDefender\bin\Debug\net6.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\nikoh\Source\Repos\crypt-defender\cryptDefender\bin\Debug\net6.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\nikoh\Source\Repos\crypt-defender\cryptDefender\bin\Debug\net6.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\nikoh\Source\Repos\crypt-defender\cryptDefender\bin\Debug\net6.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\nikoh\Source\Repos\crypt-defender\cryptDefender\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\nikoh\Source\Repos\crypt-defender\cryptDefender\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\nikoh\Source\Repos\crypt-defender\cryptDefender\obj\Debug\net6.0-windows\cryptDefender.csproj.AssemblyReference.cache
+C:\Users\nikoh\Source\Repos\crypt-defender\cryptDefender\obj\Debug\net6.0-windows\cryptDefender.csproj.CopyComplete
+C:\Users\nikoh\Source\Repos\crypt-defender\cryptDefender\obj\Debug\net6.0-windows\cryptDefender.dll
+C:\Users\nikoh\Source\Repos\crypt-defender\cryptDefender\obj\Debug\net6.0-windows\refint\cryptDefender.dll
+C:\Users\nikoh\Source\Repos\crypt-defender\cryptDefender\obj\Debug\net6.0-windows\cryptDefender.pdb
+C:\Users\nikoh\Source\Repos\crypt-defender\cryptDefender\obj\Debug\net6.0-windows\cryptDefender.genruntimeconfig.cache
+C:\Users\nikoh\Source\Repos\crypt-defender\cryptDefender\obj\Debug\net6.0-windows\ref\cryptDefender.dll
+C:\Users\kai simola\Source\Repos\crypt-defender\cryptDefender\bin\Debug\net6.0-windows\cryptDefender.exe
+C:\Users\kai simola\Source\Repos\crypt-defender\cryptDefender\bin\Debug\net6.0-windows\cryptDefender.deps.json
+C:\Users\kai simola\Source\Repos\crypt-defender\cryptDefender\bin\Debug\net6.0-windows\cryptDefender.runtimeconfig.json
+C:\Users\kai simola\Source\Repos\crypt-defender\cryptDefender\bin\Debug\net6.0-windows\cryptDefender.dll
+C:\Users\kai simola\Source\Repos\crypt-defender\cryptDefender\bin\Debug\net6.0-windows\cryptDefender.pdb
+C:\Users\kai simola\Source\Repos\crypt-defender\cryptDefender\bin\Debug\net6.0-windows\BCrypt.Net-Next.dll
+C:\Users\kai simola\Source\Repos\crypt-defender\cryptDefender\bin\Debug\net6.0-windows\EntityFramework.SqlServer.dll
+C:\Users\kai simola\Source\Repos\crypt-defender\cryptDefender\bin\Debug\net6.0-windows\EntityFramework.dll
+C:\Users\kai simola\Source\Repos\crypt-defender\cryptDefender\bin\Debug\net6.0-windows\System.Data.SQLite.dll
+C:\Users\kai simola\Source\Repos\crypt-defender\cryptDefender\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\kai simola\Source\Repos\crypt-defender\cryptDefender\bin\Debug\net6.0-windows\System.Data.SQLite.EF6.dll
+C:\Users\kai simola\Source\Repos\crypt-defender\cryptDefender\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\kai simola\Source\Repos\crypt-defender\cryptDefender\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\kai simola\Source\Repos\crypt-defender\cryptDefender\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\kai simola\Source\Repos\crypt-defender\cryptDefender\bin\Debug\net6.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\kai simola\Source\Repos\crypt-defender\cryptDefender\bin\Debug\net6.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\kai simola\Source\Repos\crypt-defender\cryptDefender\bin\Debug\net6.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\kai simola\Source\Repos\crypt-defender\cryptDefender\bin\Debug\net6.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\kai simola\Source\Repos\crypt-defender\cryptDefender\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\kai simola\Source\Repos\crypt-defender\cryptDefender\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\kai simola\Source\Repos\crypt-defender\cryptDefender\obj\Debug\net6.0-windows\cryptDefender.csproj.AssemblyReference.cache
+C:\Users\kai simola\Source\Repos\crypt-defender\cryptDefender\obj\Debug\net6.0-windows\cryptDefender.FileCryption.resources
+C:\Users\kai simola\Source\Repos\crypt-defender\cryptDefender\obj\Debug\net6.0-windows\cryptDefender.Form1.resources
+C:\Users\kai simola\Source\Repos\crypt-defender\cryptDefender\obj\Debug\net6.0-windows\cryptDefender.keylogger.resources
+C:\Users\kai simola\Source\Repos\crypt-defender\cryptDefender\obj\Debug\net6.0-windows\WinFormsApp3.LoginForm.resources
+C:\Users\kai simola\Source\Repos\crypt-defender\cryptDefender\obj\Debug\net6.0-windows\WinFormsApp3.MainForm.resources
+C:\Users\kai simola\Source\Repos\crypt-defender\cryptDefender\obj\Debug\net6.0-windows\test3.Passwordhash.resources
+C:\Users\kai simola\Source\Repos\crypt-defender\cryptDefender\obj\Debug\net6.0-windows\WinFormsApp3.RegisterForm.resources
+C:\Users\kai simola\Source\Repos\crypt-defender\cryptDefender\obj\Debug\net6.0-windows\cryptDefender.csproj.GenerateResource.cache
+C:\Users\kai simola\Source\Repos\crypt-defender\cryptDefender\obj\Debug\net6.0-windows\cryptDefender.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kai simola\Source\Repos\crypt-defender\cryptDefender\obj\Debug\net6.0-windows\cryptDefender.AssemblyInfoInputs.cache
+C:\Users\kai simola\Source\Repos\crypt-defender\cryptDefender\obj\Debug\net6.0-windows\cryptDefender.AssemblyInfo.cs
+C:\Users\kai simola\Source\Repos\crypt-defender\cryptDefender\obj\Debug\net6.0-windows\cryptDefender.csproj.CoreCompileInputs.cache
+C:\Users\kai simola\Source\Repos\crypt-defender\cryptDefender\obj\Debug\net6.0-windows\cryptDef.71C4B77B.Up2Date
+C:\Users\kai simola\Source\Repos\crypt-defender\cryptDefender\obj\Debug\net6.0-windows\cryptDefender.dll
+C:\Users\kai simola\Source\Repos\crypt-defender\cryptDefender\obj\Debug\net6.0-windows\refint\cryptDefender.dll
+C:\Users\kai simola\Source\Repos\crypt-defender\cryptDefender\obj\Debug\net6.0-windows\cryptDefender.pdb
+C:\Users\kai simola\Source\Repos\crypt-defender\cryptDefender\obj\Debug\net6.0-windows\cryptDefender.genruntimeconfig.cache
+C:\Users\kai simola\Source\Repos\crypt-defender\cryptDefender\obj\Debug\net6.0-windows\ref\cryptDefender.dll
+C:\Users\kai simola\Source\Repos\crypt-defender\cryptDefender\obj\Debug\net6.0-windows\cryptDefender.PortSkanner.resources
